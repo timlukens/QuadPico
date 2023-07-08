@@ -1,0 +1,17 @@
+#define MOTOR_1_PIN 20
+#define MOTOR_1_BACKWARDS_PIN 19
+#define MOTOR_2_PIN 6
+#define MOTOR_2_BACKWARDS_PIN 7
+
+#define MOTOR_FORWARD 0
+#define MOTOR_BACKWARD 1
+
+#define MOTOR_L 0
+#define MOTOR_R 1
+
+#define US_TRIGGER_PIN 14
+#define US_ECHO_PIN 15
+
+#define BUZZER_PIN 16
+
+#define IR_DISTANCE_PIN 26
